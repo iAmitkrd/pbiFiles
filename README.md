@@ -1,2 +1,2 @@
-# pbiFiles
-This Repository Contains Power Bi Files along with their Datasets
+# PbiFiles
+This Repository Contains Power Bi Files along with their Datasets.
